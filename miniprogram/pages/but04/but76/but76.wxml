@@ -1,0 +1,4 @@
+<!--miniprogram/pages/but/but76/but76.wxml-->
+<view class='container'>
+ <image class='p1'src='cloud://test-4hps7.7465-test-4hps7-1300300535/but/75.PNG'></image>
+</view>
