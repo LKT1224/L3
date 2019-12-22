@@ -1,0 +1,25 @@
+<view class='container'>
+ <image class='p1'src='../../images/lai.png'></image>
+
+ <navigator url="../Discern/Discern">
+ <button class="s1">
+ <view class="n1">颜色库</view>
+ <view class="n2">Color Bar</view>
+ </button>
+ </navigator>
+
+<navigator url="../China/China">
+ <button class="s2">
+ <view class="n3">中国传统色</view>
+ <view class="n4">China Traditional Color</view>
+ </button>
+</navigator>
+
+<navigator url="../Japan/Japan">
+ <button class="s3">
+ <view class="n5">传统色</view>
+ <view class="n6">Traditional Color</view>
+ </button>
+</navigator>
+
+</view>

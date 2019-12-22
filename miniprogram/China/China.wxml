@@ -1,0 +1,452 @@
+
+
+<navigator url="../but/but1/but1">
+<button class='bu1'>#ffffff</button>
+</navigator>
+<navigator url="../but/but2/but2">
+<button class='bu2'>#e9e7ef</button>
+</navigator>
+<navigator url="../but/but3/but3">
+<button class='bu3'>#f0f0f4</button>
+</navigator>
+<navigator url="../but/but4/but4">
+<button class='bu4'>#e9f1f6</button>
+</navigator>
+<navigator url="../but/but5/but5">
+<button class='bu5'>#f0fcff</button>
+</navigator>
+<navigator url="../but/but6/but6">
+<button class='bu6'>#e3f9fd</button>
+</navigator>
+<navigator url="../but/but7/but7">
+<button class='bu7'>#d6ecf0</button>
+</navigator>
+<navigator url="../but/but8/but8">
+<button class='bu8'>#fffbf0</button>
+</navigator>
+<navigator url="../but/but9/but9">
+<button class='bu9'>#f2ecde</button>
+</navigator>
+<navigator url="../but/but10/but10">
+<button class='bu10'>#fcefe8</button>
+</navigator>
+<navigator url="../but/but11/but11">
+<button class='bu11'>#fff2df</button>
+</navigator>
+<navigator url="../but/but12/but12">
+<button class='bu12'>#f3f9f1</button>
+</navigator>
+<navigator url="../but/but13/but13">
+<button class='bu13'>#e0eee8</button>
+</navigator>
+<navigator url="../but/but14/but14">
+<button class='bu14'>#e0f0e9</button>
+</navigator>
+<navigator url="../but/but15/but15">
+<button class='bu15'>#c0ebd7</button>
+</navigator>
+<navigator url="../but/but16/but16">
+<button class='bu16'>#bbcdc0</button>
+</navigator>
+<navigator url="../but/but17/but17">
+<button class='bu17'>#bacac6</button>
+</navigator>
+<navigator url="../but/but18/but18">
+<button class='bu18'>#202020</button>
+</navigator>
+<navigator url="../but/but19/but19">
+<button class='bu19'>#75878a</button>
+</navigator>
+<navigator url="../but/but20/but20">
+<button class='bu20'>#88ada6</button>
+</navigator>
+<navigator url="../but/but21/but21">
+<button class='bu21'>#6b6882</button>
+</navigator>
+<navigator url="../but/but22/but22">
+<button class='bu22'>#725e82</button>
+</navigator>
+<navigator url="../but/but23/but23">
+<button class='bu23'>#3d3b4f</button>
+</navigator>
+<navigator url="../but/but24/but24">
+<button class='bu24'>#392f41</button>
+</navigator>
+<navigator url="../but/but26/but26">
+<button class='bu26'>#5d513c</button>
+</navigator>
+<navigator url="../but/but27/but27">
+<button class='bu27'>#665757</button>
+</navigator>
+<navigator url="../but/but28/but28">
+<button class='bu28'>#493131</button>
+</navigator>
+<navigator url="../but/but29/but29">
+<button class='bu29'>#312520</button>
+</navigator>
+<navigator url="../but/but30/but30">
+<button class='bu31'>#162523</button>
+</navigator>
+<navigator url="../but/but32/but32">
+<button class='bu32'>#000000</button>
+</navigator>
+<navigator url="../but/but33/but33">
+<button class='bu33'>#eaff56</button>
+</navigator>
+<navigator url="../but/but34/but34">
+<button class='bu34'>#fff143</button>
+</navigator>
+<navigator url="../but/but35/but35">
+<button class='bu35'>#faff72</button>
+</navigator>
+<navigator url="../but/but36/but36">
+<button class='bu36'>#ffa631</button>
+</navigator>
+<navigator url="../but/but37/but37">
+<button class='bu37'>#ffa400</button>
+</navigator>
+<navigator url="../but/but38/but38">
+<button class='bu38'>#fa8c31</button>
+</navigator>
+<navigator url="../but/but39/but39">
+<button class='bu39'>#ff8936</button>
+</navigator>
+<navigator url="../but/but40/but40">
+<button class='bu40'>#ff7500</button>
+</navigator>
+<navigator url="../but/but41/but41">
+<button class='bu41'>#ffb61e</button>
+</navigator>
+<navigator url="../but/but42/but42">
+<button class='bu42'>#ffc773</button>
+</navigator>
+<navigator url="../but/but43/but43">
+<button class='bu43'>#ffc64b</button>
+</navigator>
+<navigator url="../but/but44/but44">
+<button class='bu44'>#f2be45</button>
+</navigator>
+<navigator url="../but/but45/but45">
+<button class='bu45'>#f0c239</button>
+</navigator>
+<navigator url="../but/but46/but46">
+<button class='bu46'>#e9bb1d</button>
+</navigator>
+<navigator url="../but/but47/but47">
+<button class='bu47'>#d9b611</button>
+</navigator>
+<navigator url="../but/but48/but48">
+<button class='bu48'>#eacd76</button>
+</navigator>
+<navigator url="../but/but49/but49">
+<button class='bu49'>#eedeb0</button>
+</navigator>
+<navigator url="../but/but50/but50">
+<button class='bu50'>#d3b17d</button>
+</navigator>
+<navigator url="../but/but51/but51">
+<button class='bu51'>#e29c45</button>
+</navigator>
+<navigator url="../but/but52/but52">
+<button class='bu52'>#a78e44</button>
+</navigator>
+<navigator url="../but/but53/but53">
+<button class='bu53'>#c89b40</button>
+</navigator>
+<navigator url="../but/but54/but54">
+<button class='bu54'>#ae7000</button>
+</navigator>
+<navigator url="../but/but55/but55">
+<button class='bu55'>#ca6924</button>
+</navigator>
+<navigator url="../but/but56/but56">
+<button class='bu56'>#b25d25</button>
+</navigator>
+<navigator url="../but/but57/but57">
+<button class='bu57'>#b35c44</button>
+</navigator>
+<navigator url="../but/but58/but58">
+<button class='bu58'>#9b4400</button>
+</navigator>
+<navigator url="../but/but59/but59">
+<button class='bu59'>#9c5333</button>
+</navigator>
+<navigator url="../but/but60/but60">
+<button class='bu60'>#a88462</button>
+</navigator>
+<navigator url="../but/but61/but61">
+<button class='bu61'>#896c39</button>
+</navigator>
+<navigator url="../but/but62/but62">
+<button class='bu62'>#827100</button>
+</navigator>
+<navigator url="../but/but63/but63">
+<button class='bu63'>#6e511e</button>
+</navigator>
+<navigator url="../but/but64/but64">
+<button class='bu64'>#7c4b00</button>
+</navigator>
+<navigator url="../but/but65/but65">
+<button class='bu65'>#955539</button>
+</navigator>
+<navigator url="../but/but66/but66">
+<button class='bu66'>#845a33</button>
+</navigator>
+<navigator url="../but/but67/but67">
+<button class='bu67'>#bce672</button>
+</navigator>
+<navigator url="../but/but68/but68">
+<button class='bu68'>#c9dd22</button>
+</navigator>
+<navigator url="../but/but69/but69">
+<button class='bu69'>#bddd22</button>
+</navigator>
+<navigator url="../but/but70/but70">
+<button class='bu70'>#a3d900</button>
+</navigator>
+<navigator url="../but/but71/but71">
+<button class='bu71'>#aed900</button>
+</navigator>
+<navigator url="../but/but72/but72">
+<button class='bu72'>#9ed048</button>
+</navigator>
+<navigator url="../but/but73/but73">
+<button class='bu73'>#96ce54</button>
+</navigator>
+<navigator url="../but/but74/but74">
+<button class='bu74'>#00bc12</button>
+</navigator>
+<navigator url="../but/but75/but75">
+<button class='bu75'>#08b93a</button>
+</navigator>
+<navigator url="../but/but76/but76">
+<button class='bu76'>#0eb83a</button>
+</navigator>
+<navigator url="../but/but77/but77">
+<button class='bu77'>#0aa344</button>
+</navigator>
+<navigator url="../but/but78/but78">
+<button class='bu78'>#16a951</button>
+</navigator>
+<navigator url="../but/but79/but79">
+<button class='bu79'>#21a675</button>
+</navigator>
+<navigator url="../but/but80/but80">
+<button class='bu80'>#057748</button>
+</navigator>
+<navigator url="../but/but81/but81">
+<button class='bu81'>#0c8918</button>
+</navigator>
+<navigator url="../but/but82/but82">
+<button class='bu82'>#00e500</button>
+</navigator>
+<navigator url="../but/but83/but83">
+<button class='bu83'>#40de5a</button>
+</navigator>
+<navigator url="../but/but84/but84">
+<button class='bu84'>#00e079</button>
+</navigator>
+<navigator url="../but/but85/but85">
+<button class='bu85'>#00e09e</button>
+</navigator>
+<navigator url="../but/but86/but86">
+<button class='bu86'>#3de1ad</button>
+</navigator>
+<navigator url="../but/but87/but87">
+<button class='bu87'>#2add9c</button>
+</navigator>
+<navigator url="../but/but88/but88">
+<button class='bu88'>#2edfa3</button>
+</navigator>
+<navigator url="../but/but89/but89">
+<button class='bu89'>#7fecad</button>
+</navigator>
+<navigator url="../but/but90/but90">
+<button class='bu90'>#a4e2c6</button>
+</navigator>
+<navigator url="../but/but91/but91">
+<button class='bu91'>#7bcfa6</button>
+</navigator>
+<navigator url="../but/but92/but92">
+<button class='bu92'>#1bd1a5</button>
+</navigator>
+<navigator url="../but/but93/but93">
+<button class='bu93'>#48c0a3</button>
+</navigator>
+<navigator url="../but/but94/but94">
+<button class='bu94'>#549688</button>
+</navigator>
+<navigator url="../but/but95/but95">
+<button class='bu95'>#789262</button>
+</navigator>
+<navigator url="../but/but95/but95">
+<button class='bu96'>#758a99</button>
+</navigator>
+<navigator url="../but/but97/but97">
+<button class='bu97'>#50616d</button>
+</navigator>
+<navigator url="../but/but98/but98">
+<button class='bu98'>#ff461f</button>
+</navigator>
+<navigator url="../but/but99/but99">
+<button class='bu99'>#ff2d51</button>
+</navigator>
+<navigator url="../but/but100/but100">
+<button class='bu100'>#f36838</button>
+</navigator>
+<navigator url="../but/but101/but101">
+<button class='bu101'>#ed5736</button>
+</navigator>
+<navigator url="../but/but102/but102">
+<button class='bu102'>#ff4777</button>
+</navigator>
+<navigator url="../but/but103/but103">
+<button class='bu103'>#f00056</button>
+</navigator>
+<navigator url="../but/but104/but104">
+<button class='bu104'>#ffb3a7</button>
+</navigator>
+<navigator url="../but/but105/but105">
+<button class='bu105'>#f47983</button>
+</navigator>
+<navigator url="../but/but106/but106">
+<button class='bu106'>#db5a6b</button>
+</navigator>
+<navigator url="../but/but107/but107">
+<button class='bu107'>#c93756</button>
+</navigator>
+<navigator url="../but/but108/but108">
+<button class='bu108'>#f9906f</button>
+</navigator>
+<navigator url="../but/but109/but109">
+<button class='bu109'>#f05654</button>
+</navigator>
+<navigator url="../but/but110/but110">
+<button class='bu110'>#ff2121</button>
+</navigator>
+<navigator url="../but/but111/but111">
+<button class='bu111'>#f20c00</button>
+</navigator>
+<navigator url="../but/but112/but112">
+<button class='bu112'>#8c4356</button>
+</navigator>
+<navigator url="../but/but113/but113">
+<button class='bu113'>#c83c23</button>
+</navigator>
+<navigator url="../but/but114/but114">
+<button class='bu114'>#9d2933</button>
+</navigator>
+<navigator url="../but/but115/but115">
+<button class='bu115'>#ff4c00</button>
+</navigator>
+<navigator url="../but/but116/but116">
+<button class='bu116'>#ff4e20</button>
+</navigator>
+<navigator url="../but/but117/but117">
+<button class='bu117'>#f35336</button>
+</navigator>
+<navigator url="../but/but118/but118">
+<button class='bu118'>#dc3023</button>
+</navigator>
+<navigator url="../but/but119/but119">
+<button class='bu119'>#ff3300</button>
+</navigator>
+<navigator url="../but/but120/but120">
+<button class='bu120'>#cb3a56</button>
+</navigator>
+<navigator url="../but/but121/but121">
+<button class='bu121'>#a98175</button>
+</navigator>
+<navigator url="../but/but122/but122">
+<button class='bu122'>#b36d61</button>
+</navigator>
+<navigator url="../but/but123/but123">
+<button class='bu123'>#ef7a82</button>
+</navigator>
+<navigator url="../but/but124/but124">
+<button class='bu124'>#ff0097</button>
+</navigator>
+<navigator url="../but/but125/but125">
+<button class='bu125'>#c32136</button>
+</navigator>
+<navigator url="../but/but126/but126">
+<button class='bu126'>#be002f</button>
+</navigator>
+<navigator url="../but/but127/but127">
+<button class='bu127'>#c91f37</button>
+</navigator>
+<navigator url="../but/but128/but128">
+<button class='bu128'>#bf242a</button>
+</navigator>
+<navigator url="../but/but129/but129">
+<button class='bu129'>#c3272b</button>
+</navigator>
+<navigator url="../but/but130/but130">
+<button class='bu130'>#9d2933</button>
+</navigator>
+<navigator url="../but/but131/but131">
+<button class='bu131'>#60281e</button>
+</navigator>
+<navigator url="../but/but132/but132">
+<button class='bu132'>#70f3ff</button>
+</navigator>
+<navigator url="../but/but133/but133">
+<button class='bu133'>#44cef6</button>
+</navigator>
+<navigator url="../but/but134/but134">
+<button class='bu134'>#3eede7</button>
+</navigator>
+<navigator url="../but/but135/but135">
+<button class='bu135'>#1685a9</button>
+</navigator>
+<navigator url="../but/but136/but136">
+<button class='bu136'>#177cb0</button>
+</navigator>
+<navigator url="../but/but137/but137">
+<button class='bu137'>#065279</button>
+</navigator>
+<navigator url="../but/but138/but138">
+<button class='bu138'>#003472</button>
+</navigator>
+<navigator url="../but/but139/but139">
+<button class='bu139'>#4b5cc4</button>
+</navigator>
+<navigator url="../but/but140/but140">
+<button class='bu140'>#a1afc9</button>
+</navigator>
+<navigator url="../but/but141/but141">
+<button class='bu141'>#2e4e7e</button>
+</navigator>
+<navigator url="../but/but142/but142">
+<button class='bu142'>#3b2e7e</button>
+</navigator>
+<navigator url="../but/but143/but143">
+<button class='bu143'>#4a4266</button>
+</navigator>
+<navigator url="../but/but144/but144">
+<button class='bu144'>#426666</button>
+</navigator>
+<navigator url="../but/but145/but145">
+<button class='bu145'>#425066</button>
+</navigator>
+<navigator url="../but/but146/but146">
+<button class='bu146'>#574266</button>
+</navigator>
+<navigator url="../but/but147/but147">
+<button class='bu147'>#8d4bbb</button>
+</navigator>
+<navigator url="../but/but148/but148">
+<button class='bu148'>#815476</button>
+</navigator>
+<navigator url="../but/but149/but149">
+<button class='bu149'>#801dae</button>
+</navigator>
+<navigator url="../but/but150/but150">
+<button class='bu150'>#b0a4e3</button>
+</navigator>
+<navigator url="../but/but151/but151">
+<button class='bu151'>#eddad8</button>
+</navigator>
+<navigator url="../but/but152/but152">
+<button class='bu152'>#e4c6d0</button>
+</navigator>

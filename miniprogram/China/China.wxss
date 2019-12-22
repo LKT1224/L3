@@ -1,0 +1,771 @@
+/* miniprogram/pages/China/China.wxss */
+button::after{ 
+  border: none; 
+  }
+  
+  button {
+  margin-top: 25px;
+  border-radius: 30px;
+  font-size:10pt;
+  font-weight:inherit
+  
+  }
+  .bu1{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ffffff
+  }
+  .bu2{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #e9e7ef
+  }
+  .bu3{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f0f0f4
+  }
+  .bu4{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #e9f1f6
+  }
+  .bu5{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f0fcff
+  }
+  .bu6{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #e3f9fd
+  }
+  .bu7{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #d6ecf0
+  }
+  .bu8{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #fffbf0
+  }
+  .bu9{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f2ecde
+  }
+  .bu10{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #fcefe8
+  }
+  .bu11{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #fff2df
+  }
+  .bu12{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f3f9f1
+  }
+  .bu13{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #e0eee8
+  }
+  .bu14{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #e0f0e9
+  }
+  .bu15{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c0ebd7
+  }
+  .bu16{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #bbcdc0
+  }
+  .bu17{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #bacac6
+  }
+  .bu18{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #202020
+  }
+  .bu19{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #75878a
+  }
+  .bu20{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #88ada6
+  }
+  .bu21{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #6b6882
+  }
+  .bu22{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #725e82
+  }
+  .bu23{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #3d3b4f
+  }
+  .bu24{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #392f41
+  }
+  
+  .bu26{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #5d513c
+  }
+  .bu27{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #665757
+  }
+  .bu28{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #493131
+  }
+  .bu29{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #312520
+  }
+  .bu30{
+  height: 80rpx;
+  line-height: 60rpx;
+  background:#162523
+  }
+  .bu31{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #161823
+  }
+  .bu32{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #000000
+  }
+  .bu33{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #eaff56
+  }
+  .bu34{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #fff143
+  }
+  .bu35{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #faff72
+  }
+  .bu36{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ffa631
+  }
+  .bu37{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ffa400
+  }
+  .bu38{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #fa8c31
+  }
+  .bu39{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff8936
+  }
+  .bu40{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff7500
+  }
+  .bu41{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ffb61e
+  }
+  .bu42{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ffc773
+  }
+  .bu43{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ffc64b
+  }
+  .bu44{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f2be45
+  }
+  .bu45{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f0c239
+  }
+  .bu46{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #e9bb1d
+  }
+  .bu47{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #d9b611
+  }
+  .bu48{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #eacd76
+  }
+  .bu49{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #eedeb0
+  }
+  .bu50{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #d3b17d
+  }
+  .bu51{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #e29c45
+  }
+  .bu52{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #a78e44
+  }
+  .bu53{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c89b40
+  }
+  .bu54{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ae7000
+  }
+  .bu55{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ca6924
+  }
+  .bu56{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #b25d25
+  }
+  .bu57{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #b35c44
+  }
+  .bu58{
+  height: 80rpx;
+  line-height: 60rpx;
+  background:#9b4400
+  }
+  .bu59{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #9c5333
+  }
+  .bu60{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #a88462
+  }
+  .bu61{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #896c39
+  }
+  .bu62{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #827100
+  }
+  .bu63{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #6e511e
+  }
+  .bu64{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #7c4b00
+  }
+  .bu65{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #955539
+  }
+  .bu66{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #845a33
+  }
+  .bu67{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #bce672
+  }
+  .bu68{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c9dd22
+  }
+  .bu69{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #bddd22
+  }
+  .bu70{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #a3d900
+  }
+  .bu71{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #aed900
+  }
+  .bu72{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #9ed048
+  }
+  .bu73{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #96ce54
+  }
+  .bu74{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #00bc12
+  }
+  .bu75{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #08b93a
+  }
+  .bu76{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #0eb83a
+  }
+  .bu77{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #0aa344
+  }
+  .bu78{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #16a951
+  }
+  .bu79{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #21a675
+  }
+  .bu80{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #057748
+  }
+  .bu81{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #0c8918
+  }
+  .bu82{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #00e500
+  }
+  .bu83{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #40de5a
+  }
+  .bu84{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #00e079
+  }
+  .bu85{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #00e09e
+  }
+  .bu86{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #3de1ad
+  }
+  .bu87{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #2add9c
+  }
+  .bu88{
+  height: 80rpx;
+  line-height: 60rpx;
+  background:#2edfa3
+  }
+  .bu89{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #7fecad
+  }
+  .bu90{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #a4e2c6
+  }
+  .bu91{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #7bcfa6
+  }
+  .bu92{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #1bd1a5
+  }
+  .bu93{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #48c0a3
+  }
+  .bu94{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #549688
+  }
+  .bu95{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #789262
+  }
+  .bu96{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #758a99
+  }
+  .bu97{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #50616d
+  }
+  .bu98{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff461f
+  }
+  .bu99{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff2d51
+  }
+  .bu100{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f36838
+  }
+  .bu101{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ed5736
+  }
+  .bu102{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff4777
+  }
+  .bu103{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f00056
+  }
+  .bu104{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ffb3a7
+  }
+  .bu105{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f47983
+  }
+  .bu106{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #db5a6b
+  }
+  .bu107{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c93756
+  }
+  .bu108{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f9906f
+  }
+  .bu109{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f05654
+  }
+  .bu110{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff2121
+  }
+  .bu111{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f20c00
+  }
+  .bu112{
+  height: 80rpx;
+  line-height: 60rpx;
+  background:#8c4356
+  }
+  .bu113{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c83c23
+  }
+  .bu114{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #9d2933
+  }
+  .bu115{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff4c00
+  }
+  .bu116{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff4e20
+  }
+  .bu117{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #f35336
+  }
+  .bu118{
+  height: 80rpx;
+  line-height: 60rpx;
+  background:#dc3023
+  }
+  .bu119{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff3300
+  }
+  .bu120{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #cb3a56
+  }
+  .bu121{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #a98175
+  }
+  .bu122{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #b36d61
+  }
+  .bu123{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ef7a82
+  }
+  .bu124{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #ff0097
+  }
+  .bu125{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c32136
+  }
+  .bu126{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #be002f
+  }
+  .bu127{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c91f37
+  }
+  .bu128{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #bf242a
+  }
+  .bu129{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #c3272b
+  }
+  .bu130{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #9d2933
+  }
+  .bu131{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #60281e
+  }
+  .bu132{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #70f3ff
+  }
+  .bu133{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #44cef6
+  }
+  .bu134{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #3eede7
+  }
+  .bu135{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #1685a9
+  }
+  .bu136{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #177cb0
+  }
+  .bu137{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #065279
+  }
+  .bu138{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #003472
+  }
+  .bu139{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #4b5cc4
+  }
+  .bu140{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #a1afc9
+  }
+  .bu141{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #2e4e7e
+  }
+  .bu142{
+  height: 80rpx;
+  line-height: 60rpx;
+  background:#3b2e7e
+  }
+  .bu143{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #4a4266
+  }
+  .bu144{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #426666
+  }
+  .bu145{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #425066
+  }
+  .bu146{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #574266
+  }
+  .bu147{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #8d4bbb
+  }
+  .bu148{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #815476
+  }
+  .bu149{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #4c221b
+  }
+  .bu150{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #b0a4e3
+  }
+  .bu151{
+  height: 80rpx;
+  line-height: 60rpx;
+  background: #eddad8
+  }
+  
+  .bu152{
+  height: 80rpx;
+  line-height: 60rpx;
+  background:#e4c6d0
+  }
+ 
+  
